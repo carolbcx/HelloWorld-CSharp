@@ -8,7 +8,6 @@
         var soma = numero1 + numero2;
 
 
-
         Console.WriteLine("Bem vindo ao Mundo de Programação C#");
         Console.WriteLine("0lá, Caroline!");
 
